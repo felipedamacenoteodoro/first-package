@@ -1,0 +1,13 @@
+{
+    "name": "felipedamacenoteodoro/first-package",
+    "authors": [
+        {
+            "name": "Felipe D. Teodoro",
+            "email": "felipe.teodoro@veus.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["src/helpers.php"]
+    }
+}
